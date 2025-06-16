@@ -1,5 +1,3 @@
-// Example JavaScript for your calculator
-// Place this in a <script> tag at the end of your HTML body or in a separate calculator.js file
 
 function add(a, b) {
     return a + b;
